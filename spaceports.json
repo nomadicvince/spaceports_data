@@ -1,0 +1,191 @@
+{
+  "starports": [
+    {
+      "id": 1,
+      "name": "Kennedy Space Center",
+      "city": "Cape Canaveral",
+      "state": "Florida",
+      "country": "United States",
+      "position": [-80.68036706, 28.5225289],
+      "description": "Kennedy Space Center Visitor Complex is where rockets launch and inspiration begins at Florida's gateway to space, all just one small step from Orlando.",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "http://www.kennedyspacecenter.com",
+      "radius": 70000
+    },
+    {
+      "id": 2,
+      "name": "Vandenberg AFB",
+      "city": "Santa Barbara",
+      "state": "California",
+      "country": "United States",
+      "position": [-120.6228472, 34.76405535],
+      "description": "",
+      "status": "active",
+      "visitors": "No",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://www.spacelaunchschedule.com/vandenberg-rocket-launch-viewing/",
+      "radius": 70000
+    },
+    {
+      "id": 3,
+      "name": "Wallops Flight Center",
+      "city": "Wattsville",
+      "state": "Virginia",
+      "country": "United States",
+      "position": [-75.45752345, 37.93843385],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://www.nasa.gov/content/nasa-wallops-visitor-center-2",
+      "radius": 70000
+    },
+    {
+      "id": 4,
+      "name": "Mid-Atlantic Regional Spaceport",
+      "city": "Wallops Island",
+      "state": "Virginia",
+      "country": "United States",
+      "position": [-75.4, 37.8],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://vaspace.org/",
+      "radius": 70000
+    },
+    {
+      "id": 5,
+      "name": "Pacific Spaceport Complex - Alaska",
+      "city": "Kodiak Island",
+      "state": "Alaska",
+      "country": "United States",
+      "position": [-75.45752345, 37.93843385],
+      "description": "",
+      "status": "active",
+      "visitors": "No",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://akaerospace.com/",
+      "radius": 70000
+    },
+    {
+      "id": 6,
+      "name": "Mojave Air and Space Port",
+      "city": "Mojave",
+      "state": "California",
+      "country": "United States",
+      "position": [-118.15284493, 35.0593227],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://www.mojaveairport.com/",
+      "radius": 70000
+    },
+    {
+      "id": 7,
+      "name": "Spaceport America",
+      "city": "Truth or Consequences",
+      "state": "New Mexico",
+      "country": "United States",
+      "position": [-106.98279396, 32.98884905],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://spaceportamericatour.com/",
+      "radius": 70000
+    },
+    {
+      "id": 8,
+      "name": "Spaceport Camden",
+      "city": "Woodbine",
+      "state": "Georgia",
+      "country": "United States",
+      "position": [-63.268923, 45.625046],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://spaceportcamden.us/",
+      "radius": 70000
+    },
+    {
+      "id": 9,
+      "name": "SpaceX South Texas Spaceport",
+      "city": "Boca Chica Village",
+      "state": "Texas",
+      "country": "United States",
+      "position": [-97.1824, 25.9923],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://www.spacex.com/",
+      "radius": 70000
+    },
+    {
+      "id": 10,
+      "name": "Baikonur Cosmodrome",
+      "city": "",
+      "state": "Kyzylorda Region",
+      "country": "Kazakhstan",
+      "position": [63.2689235, 45.6250456],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "http://baikonurtour.com/",
+      "radius": 70000
+    },
+    {
+      "id": 11,
+      "name": "Guiana Space Centre",
+      "city": "",
+      "state": "Kourou",
+      "country": "Guiana",
+      "position": [-52.7738833, 5.2123751],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "http://www.cnes-csg.fr/web/CNES-CSG-fr/10805-le-centre-spatial-guyanais.php",
+      "radius": 70000
+    }
+  ]
+}
