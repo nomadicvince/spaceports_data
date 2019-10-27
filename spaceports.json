@@ -329,7 +329,7 @@
       "city": "Dubai",
       "state": "",
       "country": "United Arab Emirates",
-      "position": [-4.995278, 50.440833],
+      "position": [55.46689, 25.22637],
       "description": "",
       "status": "active",
       "visitors": "Yes",
@@ -338,6 +338,23 @@
         "sidebar": "photo2"
       },
       "website": "https://www.mbrsc.ae/",
+      "radius": 70000
+    },
+    {
+      "id": 21,
+      "name": "Maritime Launch",
+      "city": "Canso",
+      "state": "Nova Scotia",
+      "country": "Canada",
+      "position": [-60.982891, 45.303559],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://www.maritimelaunch.com/",
       "radius": 70000
     }
   ]
