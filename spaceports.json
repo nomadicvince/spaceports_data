@@ -186,6 +186,159 @@
       },
       "website": "http://www.cnes-csg.fr/web/CNES-CSG-fr/10805-le-centre-spatial-guyanais.php",
       "radius": 70000
+    },
+        {
+      "id": 12,
+      "name": "Alcântara Launch Center",
+      "city": "Alcântara",
+      "state": "Maranhão",
+      "country": "Brazil",
+      "position": [-44.396389, -2.373056],
+      "description": "",
+      "status": "active",
+      "visitors": "No",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "http://www2.fab.mil.br/cla/",
+      "radius": 70000
+    }, 
+    {
+      "id": 13,
+      "name": "Xichang Space Center",
+      "city": "Xichang",
+      "state": "Liangshan, Sichuan",
+      "country": "China",
+      "position": [102.026556, 28.246017],
+      "description": "",
+      "status": "active",
+      "visitors": "No",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "",
+      "radius": 70000
+    },
+    {
+      "id": 14,
+      "name": "Tanegashima Space Center",
+      "city": "",
+      "state": " Kagoshima Prefecture",
+      "country": "Japan",
+      "position": [130.97, 30.4],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://global.jaxa.jp/about/centers/tnsc/index.html",
+      "radius": 70000
+    },
+    {
+      "id": 15,
+      "name": "Uchinoura Space Center",
+      "city": "",
+      "state": " Kagoshima Prefecture",
+      "country": "Japan",
+      "position": [131.0785, 31.2523],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://global.jaxa.jp/about/centers/usc/index.html",
+      "radius": 70000
+    },
+    {
+      "id": 16,
+      "name": "Rocket Lab Launch Complex 1",
+      "city": "",
+      "state": "Mahia Peninsula",
+      "country": "New Zealand",
+      "position": [177.864876, -39.2615],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://www.rocketlabusa.com/",
+      "radius": 70000
+    },    
+    {
+      "id": 17,
+      "name": "Satish Dhawan Space Centre",
+      "city": "Sriharikota",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "position": [80.230278, 13.72],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://www.shar.gov.in/sdscshar/index.jsp",
+      "radius": 70000
+    },
+     {
+      "id": 18,
+      "name": "Esrange Space Center",
+      "city": "",
+      "state": "",
+      "country": "Sweden",
+      "position": [21.106944, 67.893889],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://www.kirunalapland.se/en/see-do/ssc-esrange-visitor-center-2/",
+      "radius": 70000
+    },
+    {
+      "id": 19,
+      "name": "Spaceport Cornwall",
+      "city": "",
+      "state": "",
+      "country": "United Kingdom",
+      "position": [-4.995278, 50.440833],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://spaceportcornwall.com/",
+      "radius": 70000
+    },
+    {
+      "id": 20,
+      "name": "Mohammed Bin Rashid Space Center",
+      "city": "Dubai",
+      "state": "",
+      "country": "United Arab Emirates",
+      "position": [-4.995278, 50.440833],
+      "description": "",
+      "status": "active",
+      "visitors": "Yes",
+      "images": {
+        "main": "photo1",
+        "sidebar": "photo2"
+      },
+      "website": "https://www.mbrsc.ae/",
+      "radius": 70000
     }
   ]
 }
