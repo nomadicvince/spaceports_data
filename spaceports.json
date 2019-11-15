@@ -1,8 +1,7 @@
-{
-  "starports": [
+const Spaceports = [    
     {
       "id": 1,
-      "name": "Kennedy Space Center",
+      "name": "Kennedy Space Center/Cape Canaveral",
       "city": "Cape Canaveral",
       "state": "Florida",
       "country": "United States",
@@ -24,7 +23,7 @@
       "state": "California",
       "country": "United States",
       "position": [-120.6228472, 34.76405535],
-      "description": "",
+      "description": "Vandenberg AFB is the only military base in the United States from which unmanned government and commercial satellites are launched into polar orbit. Home of the 30th Space Wing",
       "status": "active",
       "visitors": "No",
       "images": {
@@ -35,30 +34,13 @@
       "radius": 70000
     },
     {
-      "id": 3,
-      "name": "Wallops Flight Center",
-      "city": "Wattsville",
-      "state": "Virginia",
-      "country": "United States",
-      "position": [-75.45752345, 37.93843385],
-      "description": "",
-      "status": "active",
-      "visitors": "Yes",
-      "images": {
-        "main": "photo1",
-        "sidebar": "photo2"
-      },
-      "website": "https://www.nasa.gov/content/nasa-wallops-visitor-center-2",
-      "radius": 70000
-    },
-    {
       "id": 4,
       "name": "Mid-Atlantic Regional Spaceport",
       "city": "Wallops Island",
       "state": "Virginia",
       "country": "United States",
       "position": [-75.4, 37.8],
-      "description": "",
+      "description": "MARS is bounded by the Atlantic Ocean on the east and the Chesapeake Bay on the west.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -74,8 +56,8 @@
       "city": "Kodiak Island",
       "state": "Alaska",
       "country": "United States",
-      "position": [-75.45752345, 37.93843385],
-      "description": "",
+      "position": [-152.337778, 57.435833],
+      "description": "The Pacific Spaceport Complex – Alaska, formerly known as the Kodiak Launch Complex, is a dual-use commercial and military spaceport for sub-orbital and orbital launch vehicles.",
       "status": "active",
       "visitors": "No",
       "images": {
@@ -92,7 +74,7 @@
       "state": "California",
       "country": "United States",
       "position": [-118.15284493, 35.0593227],
-      "description": "",
+      "description": "Mojave is the first facility to be licensed in the United States for horizontal launches of reusable spacecraft. It is licensced as a spaceport by the Federal Aviation Administration",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -109,7 +91,7 @@
       "state": "New Mexico",
       "country": "United States",
       "position": [-106.98279396, 32.98884905],
-      "description": "",
+      "description": "Spaceport America is the world's first purpose-built Spaceport. The Gateway to Space is located in New Mexico outside of Truth or Consequences.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -125,8 +107,8 @@
       "city": "Woodbine",
       "state": "Georgia",
       "country": "United States",
-      "position": [-63.268923, 45.625046],
-      "description": "",
+      "position": [ -81.514722, 30.9275],
+      "description": "The vision for Spaceport Camden is to develop a successful world-class commercial spaceport through a public-private partnership along Georgia's Atlantic coast.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -143,7 +125,7 @@
       "state": "Texas",
       "country": "United States",
       "position": [-97.1824, 25.9923],
-      "description": "",
+      "description": "The SpaceX South Texas Launch Site is a spaceport and test at Boca Chica Village near Brownsville, Texas, for the private use of Space Exploration Technologies Corporation.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -160,7 +142,7 @@
       "state": "Kyzylorda Region",
       "country": "Kazakhstan",
       "position": [63.2689235, 45.6250456],
-      "description": "",
+      "description": "The Baikonur Cosmodrome is a spaceport located in an area of southern Kazakhstan leased to Russia. The Cosmodrome is the world's first and largest operational space launch facility.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -177,7 +159,7 @@
       "state": "Kourou",
       "country": "Guiana",
       "position": [-52.7738833, 5.2123751],
-      "description": "",
+      "description": "The Guiana Space Center is a facility used by the European Space Agency and the French government to launch satellites into space.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -194,7 +176,7 @@
       "state": "Maranhão",
       "country": "Brazil",
       "position": [-44.396389, -2.373056],
-      "description": "",
+      "description": "The Alcântara Launch Center is a satellite launching facility of the Brazilian Space Agency in the city of Alcântara, located on Brazil's northern Atlantic coast.",
       "status": "active",
       "visitors": "No",
       "images": {
@@ -211,7 +193,7 @@
       "state": "Liangshan, Sichuan",
       "country": "China",
       "position": [102.026556, 28.246017],
-      "description": "",
+      "description": "The Xichang Satellite Launch Center is a space launch site in the Sichuan Province of China, serving as the primary gateway to Geostationary Orbit.",
       "status": "active",
       "visitors": "No",
       "images": {
@@ -228,7 +210,7 @@
       "state": " Kagoshima Prefecture",
       "country": "Japan",
       "position": [130.97, 30.4],
-      "description": "",
+      "description": "The Tanegashima Space Center is the largest rocket-launch complex in Japan with a total area of about 9.7 square kilometers. It is located on the south east coast of Tanegashima, an island approximately 40 km south of Kyushu.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -245,7 +227,7 @@
       "state": " Kagoshima Prefecture",
       "country": "Japan",
       "position": [131.0785, 31.2523],
-      "description": "",
+      "description": "The Uchinoura Space Center is a space launch facility close to the Japanese town of Kimotsuki, in Kagoshima Prefecture. Before the establishment of the JAXA space agency in 2003, it was simply called the Kagoshima Space Center.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -262,7 +244,7 @@
       "state": "Mahia Peninsula",
       "country": "New Zealand",
       "position": [177.864876, -39.2615],
-      "description": "",
+      "description": "Rocket Lab Launch Complex 1 is a commercial spaceport located close to Ahuriri Point at the southern tip of Mahia Peninsula, on the east coast of New Zealand's North Island.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -279,7 +261,7 @@
       "state": "Andhra Pradesh",
       "country": "India",
       "position": [80.230278, 13.72],
-      "description": "",
+      "description": "Satish Dhawan Space Centre or Sriharikota Range is a rocket launch centre operated by the Indian Space Research Organisation. It is located in Sriharikota in Andhra Pradesh, India.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -296,7 +278,7 @@
       "state": "",
       "country": "Sweden",
       "position": [21.106944, 67.893889],
-      "description": "",
+      "description": "Esrange Space Center is a rocket range and research center located about 40 kilometers east of the town of Kiruna in northern Sweden.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -313,7 +295,7 @@
       "state": "",
       "country": "United Kingdom",
       "position": [-4.995278, 50.440833],
-      "description": "",
+      "description": "A future spaceport that will be the primary base for the UK Space Agency's activites and satellite launches by Virgin Orbit.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -330,7 +312,7 @@
       "state": "",
       "country": "United Arab Emirates",
       "position": [55.46689, 25.22637],
-      "description": "",
+      "description": "The Mohammed Bin Rashid Space Centre, encompassing the Emirates Institution for Advanced Science and Technology, is a Dubai government organisation working on the UAE space program, which includes various space satellite projects and the Emirates Mars Mission.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -347,7 +329,7 @@
       "state": "Nova Scotia",
       "country": "Canada",
       "position": [-60.982891, 45.303559],
-      "description": "",
+      "description": "Maritime Launch Services is a Canadian space transport services company founded in 2016 and headquartered in Nova Scotia, Canada.",
       "status": "active",
       "visitors": "Yes",
       "images": {
@@ -358,4 +340,5 @@
       "radius": 70000
     }
   ]
-}
+
+ export default Spaceports;
